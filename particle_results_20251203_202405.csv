@@ -1,0 +1,9 @@
+ID,Area(px),Diameter(px),Class,Confidence
+1,8478,103.9,0 Class 1,1.0
+2,5530,83.9,0 Class 1,1.0
+3,1023,36.1,0 Class 1,0.99
+4,37,6.9,0 Class 1,0.74
+
+Total Particles,4
+Total Area(px),15068
+Percent Bowl Area,8.31%
